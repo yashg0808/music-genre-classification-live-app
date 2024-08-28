@@ -72,4 +72,4 @@ def predict_file():
         return (render_template('home.html',results = 'Romance', song_name=file.filename))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=8080)
