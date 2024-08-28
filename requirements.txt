@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+dill
+boto3
+sagemaker
+ipykernel
+flask
+librosa
+# -e.
